@@ -48,6 +48,8 @@ docker pull ghcr.io/tu_usuario/telco-churn-cicd:latest
 docker run --rm -p 8000:8000 ghcr.io/tu_usuario/telco-churn-cicd:latest
 ```
 
+Proyecto Telco Customer Churn con integración continua.
+
 ## Evidencias
 Capturas de pruebas locales, workflow exitoso, workflow fallido, workflow corregido, paquete GHCR y predicción desde contenedor.
 
